@@ -1,5 +1,5 @@
 {
-    "name": "StuDocu/text-language-detect",
+    "name": "easybiblabs/text-language-detect",
     "description": "Detects the language of a given piece of text.",
     "keywords": ["language","detect"],
     "homepage": "http://pear.php.net/package/Text_LanguageDetect",
